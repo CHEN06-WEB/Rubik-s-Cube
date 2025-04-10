@@ -1,8 +1,8 @@
 ﻿  zuobiao.cpp
-C:\Users\chx20\Desktop\c语言\一阶魔方（改）\Project30\zuobiao.cpp(200,82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\chx20\Desktop\c语言\一阶魔方（改）\Project30\zuobiao.cpp(200,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\chx20\Desktop\c语言\一阶魔方（改）\Project30\zuobiao.cpp(200,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\chx20\Desktop\c语言\一阶魔方（改）\Project30\zuobiao.cpp(200,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\chx20\Desktop\c语言\一阶魔方（改）\Project30\zuobiao.cpp(214,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\chx20\Desktop\c语言\一阶魔方（改）\Project30\zuobiao.cpp(214,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-  Project30.vcxproj -> C:\Users\chx20\Desktop\c语言\一阶魔方（改）\x64\Debug\Project30.exe
+D:\obj\Rubik-s-Cube\一阶魔方（改）\Project30\zuobiao.cpp(200,82): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\obj\Rubik-s-Cube\一阶魔方（改）\Project30\zuobiao.cpp(200,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\obj\Rubik-s-Cube\一阶魔方（改）\Project30\zuobiao.cpp(200,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\obj\Rubik-s-Cube\一阶魔方（改）\Project30\zuobiao.cpp(200,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\obj\Rubik-s-Cube\一阶魔方（改）\Project30\zuobiao.cpp(214,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\obj\Rubik-s-Cube\一阶魔方（改）\Project30\zuobiao.cpp(214,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Project30.vcxproj -> D:\obj\Rubik-s-Cube\一阶魔方（改）\x64\Debug\Project30.exe

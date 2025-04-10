@@ -216,8 +216,8 @@ void drawSurface(Vec3 Surface[4], Vec3 AuxiliaryVector[2], Vec2 pericenter_Sur, 
 
 // 画正方体
 void drawCube(Vec3 Vertex[8], Vec3 AuxiliaryVector[2], Vec2 pericenter, COLORREF ColorArray[6], double scale, double focalLength) {
-    setbkcolor(RGB(0, 0, 0));  // 设置背景颜色为黑色
-    cleardevice();     // 清屏
+    setbkcolor(RGB(218,218,218));  // 设置背景颜色为黑色
+    cleardevice();// 清屏
 
     Vec3 Surface[6][4] = {
         {Vertex[1], Vertex[2], Vertex[6], Vertex[5]}, // Right
